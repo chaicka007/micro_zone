@@ -3,7 +3,7 @@
     <uses-feature android:name="android.hardware.camera" android:required="false" />
 
     <application
-        android:label="micro_zone"
+        android:label="microZone"
         android:name="${applicationName}"
         android:icon="@mipmap/launcher_icon">
         <activity
